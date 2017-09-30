@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "139028643991",
+    "firebase_url": "https://modi-videos.firebaseio.com",
+    "project_id": "modi-videos",
+    "storage_bucket": "modi-videos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139028643991:android:a2cfa0fe6b8f96c1",
+        "android_client_info": {
+          "package_name": "com.modi.modivideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139028643991-6pub49js4dfp6969mlp3tssctfvb3ps1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4eCD0NvYtU__c4LlM0l-we63UAEWCGeA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
